@@ -67,7 +67,7 @@ More projects will be added as I continue learning.
 
 ## 🤝 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/aayansh-mahit-87a5a0378/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:YOUR-EMAIL@gmail.com">
